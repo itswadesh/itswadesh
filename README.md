@@ -5,7 +5,7 @@
 - 🌱 I love creating web interfaces @tailwindcss 
 - 🧰 @vuejs is my primary tool for creating web apps.
 - 👯 I’m looking to collaborate with other ecommerce startups and creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Love: @svelte
 - 🤖 Codecanyon Portfolio https://codecanyon.net/user/itswadesh/portfolio
 
