@@ -1,11 +1,11 @@
 ### Hi there, I'm Swadesh from Odisha, India 👋
 
 ## I'm a Father, Developer, and Teacher!
-- 🔭 I’m currently working on [Litekart][website], [Frontendfun](https://www.frontendfun.com), [ShopNx](https://shopnx.in)!
+- 🔭 I’m currently working on [Misiki](https://misiki.in/),[Litekart](https://www.litekart.in/), [Frontendfun](https://www.frontendfun.com), [ShopNx](https://shopnx.in)[LrNr](https://lrnr.in)!
 - 🌱 I love creating web interfaces @tailwindcss 
 - 🧰 @vuejs is my primary tool for creating web apps.
-- 👯 I’m looking to collaborate with other ecommerce startups and creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 👯 I’m looking to collaborate with other ecommerce startups, creators and marketers
+- 🥅 2021 Goal: Launch Misiki.in ecommerce SAAS project
 - ⚡ Love: @svelte
 - 🤖 Codecanyon Portfolio https://codecanyon.net/user/itswadesh/portfolio
 
