@@ -1,12 +1,13 @@
 ### Hi there, I'm Swadesh from Odisha, India 👋
 
 ## I'm a Father, Developer, and Teacher!
-- 🔭 I’m currently working on [Misiki](https://misiki.in/), [Litekart](https://www.litekart.in/), [Frontendfun](https://www.frontendfun.com), [ShopNx](https://shopnx.in), [LrNr](https://lrnr.in)!
+- 🔭 I’m currently working on [Misiki](https://misiki.io/), [Litekart](https://www.litekart.in/), [Frontendfun](https://www.frontendfun.com), [ShopNx](https://shopnx.in), [LrNr](https://lrnr.in)!
 - 🌱 I love creating web interfaces @tailwindcss 
-- 🧰 @vuejs is my primary tool for creating web apps.
+- 🧰 Past I did ReactJS, VueJS.
+- 🧰 @sveltekit is my primary tool for creating web apps.
 - 👯 I’m looking to collaborate with other ecommerce startups, creators and marketers
-- 🥅 2021 Goal: Launch Misiki.in ecommerce SAAS project
-- ⚡ Love: @svelte
+- 🥅 2022 Goal: Launch Misiki.io ecommerce SAAS project
+- ⚡ Love to work on automation, IOT, AI projects
 - 🤖 Codecanyon Portfolio https://codecanyon.net/user/itswadesh/portfolio
 
 ### Connect with me:
@@ -45,11 +46,15 @@
 
 ### 📺 Latest Projects
 <!-- PROJECTS:START -->
-- [Frontendfun | best open source projects collection](https://www.frontendfun.com/)
-- [Litekart | ecommerce platform for next generation](https://www.litekart.in/)
+- [AtozZones | The Super app (https://atozzones.com/)
+- [Misiki | ecommerce saas](https://misiki.io/)
+- [LrNr | EdTech Platform] (https://lrnr.in/)
+- [Frontendfun | AI based open source project curation tool](https://www.frontendfun.com/)
+- [Litekart | end-to-end ecommerce platform](https://www.litekart.in/)
+- [VueFul | Automation tool for javascript programmers] (https://codecanyon.net/item/vue-fullstack-automation-database-crud-generator-using-vuejs-nodejs-mongodb/24263858)
 - [ShopNx | affiliate management platform for youtubers](https://shopnx.in/)
-- [Misiki | community based food ordering platform](https://www.misiki.in/)
-- [Hopyshopy | open source ecommerce frontend using sveltekit](http://svelte-commerce.litekart.in/)
+- [Tablez | Ecommerce project for hyper commerce](https://tablez.com/)
+- [Clicky | Latest fashion commerce](https://clicky.pk/)
 - [Foodfire | opens source firebase ecommerce platform](https://foodfire.info/)
 <!-- PROJECTS:END -->
 
@@ -68,7 +73,7 @@
 
 <img align="left" alt="Litekart's Github Stats" src="https://github-readme-stats.vercel.app/api?username=itswadesh&show_icons=true&hide_border=true" />
 
-[website]: https://www.litekart.in
+[website]: https://misiki.tech
 [facebook]: https://www.facebook.com/codenx2
 [twitter]: https://twitter.com/itswadesh
 [youtube]: https://youtube.com/codenx2
