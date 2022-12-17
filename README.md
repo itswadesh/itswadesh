@@ -1,7 +1,7 @@
 ### Hi there, I'm Swadesh from Odisha, India 👋
 
 ## I'm a Father, Developer, and Teacher!
-- 🔭 I’m currently working on [Misiki](https://misiki.io/), [AtoZ](https://atozzones.com/), [Frontendfun](https://www.frontendfun.com), [ShopNx](https://shopnx.in), [LrNr](https://lrnr.in)!
+- 🔭 I’m currently working on [Litekart](https://litekart.in/)
 - 🌱 I love creating web interfaces @tailwindcss 
 - 🧰 Past I did ReactJS, VueJS.
 - 🧰 @sveltekit is my primary tool for creating web apps.
@@ -12,11 +12,11 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Misiki.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Misiki.io | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Misiki.io | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Misiki.io | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Misiki.io | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="litekart" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="litekart | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="litekart | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="litekart | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="litekart | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -46,10 +46,13 @@
 
 ### 📺 Latest Projects
 <!-- PROJECTS:START -->
+- [Zapvi | Mobile cover customizer (https://zapvi.in/)
+- [VarniJewels | The Jewellery manufacturer (https://varnijewels.com/)
+- [Trialshot | The Fashion app (https://trialshot.com/)
 - [AtozZones | The Super app (https://atozzones.com/)
-- [Misiki | ecommerce saas](https://misiki.io/)
+- [Litekart | The scalable ecommerce ](https://litekart.in/)
 - [LrNr | EdTech Platform] (https://lrnr.in/)
-- [Frontendfun | AI based open source project curation tool](https://www.frontendfun.com/)
+- [Frontendfun | The open source project curation tool](https://www.frontendfun.com/)
 - [VueFul | Automation tool for javascript programmers] (https://codecanyon.net/item/vue-fullstack-automation-database-crud-generator-using-vuejs-nodejs-mongodb/24263858)
 - [ShopNx | affiliate management platform for youtubers](https://shopnx.in/)
 - [Tablez | Ecommerce project for hyper commerce](https://tablez.com/)
@@ -72,7 +75,7 @@
 
 <img align="left" alt="Kitcommerce's Github Stats" src="https://github-readme-stats.vercel.app/api?username=itswadesh&show_icons=true&hide_border=true" />
 
-[website]: https://misiki.tech
+[website]: https://litekart.in
 [facebook]: https://www.facebook.com/codenx2
 [twitter]: https://twitter.com/itswadesh
 [youtube]: https://youtube.com/codenx2
