@@ -2,12 +2,12 @@
 
 ## I specialize in ecommerce tech
 
-- 🔭 I’m currently working on [Litekart](https://litekart.in/)
-- 🌱 I love creating web interfaces @tailwindcss 
-- 🧰 Past I did ReactJS, VueJS.
+- 🔭 Currently working on [Litekart](https://litekart.in/)
+- 🌱 Love creating web interfaces @tailwindcss 
+- 🧰 Past I did ReactJS, VueJS, Angular.
 - 🧰 @sveltekit is my primary tool for creating web apps.
 - 👯 I’m looking to collaborate with other ecommerce startups, creators and marketers
-- 🥅 2022 Goal: Launch Misiki.io ecommerce SAAS project
+- 🥅 2023 Goal: Launch litekart.in ecommerce SAAS project
 - ⚡ Love to work on automation, IOT, AI projects
 - 🤖 Codecanyon Portfolio https://codecanyon.net/user/itswadesh/portfolio
 
