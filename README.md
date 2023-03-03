@@ -1,6 +1,7 @@
 ### Hi there, I'm Swadesh from Odisha, India 👋
 
-## I'm a Father, Developer, and Teacher!
+## I specialize in ecommerce tech
+
 - 🔭 I’m currently working on [Litekart](https://litekart.in/)
 - 🌱 I love creating web interfaces @tailwindcss 
 - 🧰 Past I did ReactJS, VueJS.
