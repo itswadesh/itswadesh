@@ -49,8 +49,7 @@
 <!-- PROJECTS:START -->
 - [Zapvi | Mobile cover customizer (https://zapvi.in/)
 - [VarniJewels | The Jewellery manufacturer (https://varnijewels.com/)
-- [Trialshot | The Fashion app (https://trialshot.com/)
-- [AtozZones | The Super app (https://atozzones.com/)
+- [Misiki | The Super app (https://misiki.in/)
 - [Litekart | The scalable ecommerce ](https://litekart.in/)
 - [LrNr | EdTech Platform] (https://lrnr.in/)
 - [Frontendfun | The open source project curation tool](https://www.frontendfun.com/)
