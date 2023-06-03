@@ -7,8 +7,8 @@
 - 🧰 Past I did ReactJS, VueJS, Angular.
 - 🧰 @sveltekit is my primary tool for creating web apps.
 - 👯 I’m looking to collaborate with other ecommerce startups, creators and marketers
-- 🥅 2023 Goal: Launch litekart.in ecommerce SAAS project
-- ⚡ Love to work on automation, IOT, AI projects
+- 🥅 2023: Launched litekart.in ecommerce SAAS
+- ⚡ Looing for sales, marketing collaboration for litekart.in ecommerce platform
 - 🤖 Codecanyon Portfolio https://codecanyon.net/user/itswadesh/portfolio
 
 ### Connect with me:
