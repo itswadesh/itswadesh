@@ -2,14 +2,10 @@
 
 ## I specialize in ecommerce tech
 
-- 🔭 Currently working on [Litekart](https://litekart.in/)
+- 🔭 Currently working on [Svelte Commerce](https://demo.litekart.in/)
 - 🌱 Love creating web interfaces @tailwindcss 
 - 🧰 Past I did ReactJS, VueJS, Angular.
 - 🧰 @sveltekit is my primary tool for creating web apps.
-- 👯 I’m looking to collaborate with other ecommerce startups, creators and marketers
-- 🥅 2023: Launched litekart.in ecommerce SAAS
-- ⚡ Looing for sales, marketing collaboration for litekart.in ecommerce platform
-- 🤖 Codecanyon Portfolio https://codecanyon.net/user/itswadesh/portfolio
 
 ### Connect with me:
 
@@ -45,8 +41,7 @@
 
 ---
 
-### 📺 Latest Projects
-<!-- PROJECTS:START -->
+<!-- ### 📺 Latest Projects
 - [Zapvi | Mobile cover customizer (https://zapvi.in/)
 - [VarniJewels | The Jewellery manufacturer (https://varnijewels.com/)
 - [Misiki | The Super app (https://misiki.in/)
@@ -57,8 +52,7 @@
 - [ShopNx | affiliate management platform for youtubers](https://shopnx.in/)
 - [Tablez | Ecommerce project for hyper commerce](https://tablez.com/)
 - [Clicky | Latest fashion commerce](https://clicky.pk/)
-- [Foodfire | opens source firebase ecommerce platform](https://foodfire.info/)
-<!-- PROJECTS:END -->
+- [Foodfire | opens source firebase ecommerce platform](https://foodfire.info/) -->
 
 ---
 
@@ -75,9 +69,7 @@
 
 <img align="left" alt="Kitcommerce's Github Stats" src="https://github-readme-stats.vercel.app/api?username=itswadesh&show_icons=true&hide_border=true" />
 
-[website]: https://litekart.in
 [facebook]: https://www.facebook.com/codenx2
 [twitter]: https://twitter.com/itswadesh
 [youtube]: https://youtube.com/codenx2
-[instagram]: https://instagram.com/litekart
 [linkedin]: https://linkedin.com/in/itswadesh
