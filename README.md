@@ -7,14 +7,14 @@
 - 🧰 Past I did ReactJS, VueJS, Angular.
 - 🧰 @sveltekit is my primary tool for creating web apps.
 
-### Connect with me:
+<!-- ### Connect with me:
 
 <img align="left" alt="litekart" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
 <img align="left" alt="litekart | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 <img align="left" alt="litekart | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 
 <br />
-<br />
+<br /> -->
 
 ---
 
