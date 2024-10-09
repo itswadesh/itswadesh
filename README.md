@@ -35,11 +35,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Appointment Booking Microservice using Javascript Fullstack](https://www.angularcode.com/appointment-booking-microservice-using-javascript-fullstack/)
-- [Configure Vultr for Nodejs Deployment](https://www.angularcode.com/configure-vultr-for-nodejs-deployment/)
-- [Steps to Configure Digital Ocean Droplet for Nodejs Application Deployment](https://www.angularcode.com/steps-to-configure-digital-ocean-droplet-for-nodejs-application-deployment/)
-- [Complete steps to configure elasticsearch on Ubuntu](https://www.angularcode.com/complete-steps-to-configure-elasticsearch-on-ubuntu/)
-- [Send email with PDF attachment using PHP](https://www.angularcode.com/send-email-with-pdf-attachment-using-php/)
+- [Appointment Booking Microservice using Javascript Fullstack](https://angularcode.com/appointment-booking-using-microservice)
+- [Configure Vultr for Nodejs Deployment](https://www.angularcode.com/configure-vultr-for-nodejs-deployment/configure-vultr-for-nodejs-deployment)
+- [Steps to Configure Digital Ocean Droplet for Nodejs Application Deployment](https://www.angularcode.com/steps-to-configure-digital-ocean-droplet-for-nodejs-application-deployment/steps-to-configure-digital-ocean-droplet-for-nodejs-application-deployment)
+- [Complete steps to configure elasticsearch on Ubuntu](https://www.angularcode.com/complete-steps-to-configure-elasticsearch-on-ubuntu/setup-elasticsearch-on-ubuntu)
+- [Send email with PDF attachment using PHP](https://www.angularcode.com/send-email-with-pdf-attachment-using-php/send-email-with-pdf-attachment-using-php)
 <!-- BLOG-POST-LIST:END -->
 
 ---
